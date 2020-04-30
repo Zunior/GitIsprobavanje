@@ -11,6 +11,7 @@ public class Main {
 		String ime;
 		String prezime;
 		String zvono;
+		String proba;
 	}
 
 }
