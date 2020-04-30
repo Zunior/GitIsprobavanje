@@ -10,6 +10,7 @@ public class Main {
 	public static void getMethod() {
 		String ime;
 		String prezime;
+		String zvono;
 	}
 
 }
